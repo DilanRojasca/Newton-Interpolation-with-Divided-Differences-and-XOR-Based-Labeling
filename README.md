@@ -50,8 +50,10 @@ This repository contains a project showcasing the application of Newton's interp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Dilanrojasca/BreadcrumbsNewton-Interpolation-with-Divided-Differences-and-XOR-Based-Labeling
+
+   cd BreadcrumbsNewton-Interpolation-with-Divided-Differences-and-XOR-Based-Labeling
+
    ```
 
 2. Install dependencies (if any):
